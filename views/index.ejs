@@ -1,0 +1,60 @@
+<meta name="viewport" content="width=500, initial-scale=1"> <!--This line of code is for mobile responsive -->
+
+<div class="BorderMargin">
+  
+
+  <form action="/relay1/on" method="post">
+    <button type="submit" class="button">Relay On </button>
+      <button type="submit" formmethod="post" formaction="/relay1/off" class="button button3">Relay Off</button>
+  </form>
+
+<form action="/relay2/on" method="post">
+    <button type="submit" class="button">Relay On </button>
+      <button type="submit" formmethod="post" formaction="/relay2/off" class="button button3">Relay Off</button>
+  </form>
+
+<form action="/relay3/on" method="post">
+    <button type="submit" class="button">Relay On </button>
+      <button type="submit" formmethod="post" formaction="/relay3/off" class="button button3">Relay Off</button>
+  </form>
+
+<form action="/relay4/on" method="post">
+    <button type="submit" class="button">Relay On </button>
+      <button type="submit" formmethod="post" formaction="/relay4/off" class="button button3">Relay Off</button>
+  </form>
+
+  <a>Led Status: <%=status %></a>
+</div>
+
+ 
+
+<!-- The below code is only for look and styling -->
+<style>
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */ 
+.button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
+.button5 {background-color: #555555;} /* Black */
+
+
+.BorderMargin {
+  
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: 300px;
+   border: 1px solid black;
+}   
+</style>

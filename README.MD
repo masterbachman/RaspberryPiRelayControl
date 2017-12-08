@@ -3,9 +3,6 @@
 > for EX: 192.168.1.65/relay1/on
 > Username and Password support coming soon!
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 
 
@@ -44,17 +41,9 @@ ifconfig /
 >Example: 192.168.1.1:3000
 
 
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
 
 
 ## References
 
 1. BIG THANKS TOO! (<https://github.com/my-electronics-lab/rpi-led-local-server-nodejs>)
+2. BIG SHOUTOUT TOO Cheridan Uter

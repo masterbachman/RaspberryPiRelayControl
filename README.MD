@@ -4,6 +4,11 @@
 > Username and Password support coming soon!
 
 
+# Hardware Used
+You can purchase the hardware I used from these websites.
+
+> Here is a link to the relay:  http://www.keyestudio.com/keyestudio-rpi-4-channel-relay-shield.html
+> Raspberry Pi https://www.adafruit.com/product/3055?src=raspberrypi
 
 
 ## Installation

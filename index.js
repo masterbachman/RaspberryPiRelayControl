@@ -29,6 +29,10 @@ app.get('/', function(req, res){
  	res.render('index',{status:"Press Button To change Status of Led !!"});
 });
 
+//==============================================================================
+// RELAY ON SECTION
+//==============================================================================
+
 //RELAY1
 app.post('/relay1/on', function(req, res){
 gpio.write(7, true, function(err) {
@@ -40,9 +44,6 @@ gpio.write(7, true, function(err) {
 
 });
 
-//==============================================================================
-// RELAY ON SECTION
-//==============================================================================
 
 //RELAY2
 app.post('/relay2/on', function(req, res){

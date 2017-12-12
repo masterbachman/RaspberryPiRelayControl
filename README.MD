@@ -3,8 +3,10 @@
 > for EX: 192.168.1.65/relay1/on
 > Username and Password support coming soon!
 
+![alt text](https://github.com/masterbachman/relay-control-raspberrypi/blob/master/RelayControl.gif
+![alt text](https://github.com/masterbachman/relay-control-raspberrypi/blob/master/RelayInAction.gif
 
-# Hardware Used
+## Hardware Used
 You can purchase the hardware I used from these websites.
 
 > Here is a link to the relay:  http://www.keyestudio.com/keyestudio-rpi-4-channel-relay-shield.html

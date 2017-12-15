@@ -1,7 +1,7 @@
 {
-  "name": "simple-rpi-local-server-led-control",
+  "name": "relay-control-raspberrypi",
   "version": "1.0.0",
-  "description": "SImple web server that runs html page which can control led connected to rpi",
+  "description": "Node.js webserver which controls the GPIO pins of the Relays.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,8 @@
   "keywords": [
     "rpi"
   ],
-  "author": "satya sankar sahoo (www.myelectronicslab.com)",
-  "license": "ISC",
+  "author": "Brandon Bachman",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^2.5.6",
     "express": "^4.15.3",

@@ -3,8 +3,8 @@
 > for EX: 192.168.1.65/relay1/on
 > Username and Password support coming soon!
 
-![alt text](https://github.com/masterbachman/relay-control-raspberrypi/blob/master/RelayControl.gif)
-![alt text](https://github.com/masterbachman/relay-control-raspberrypi/blob/master/RelayInAction.gif)
+![alt text](https://github.com/masterbachman/relay-control-raspberrypi/blob/master/public/images/RelayControl.gif)
+![alt text](https://github.com/masterbachman/relay-control-raspberrypi/blob/master/public/images/RelayInAction.gif)
 
 ## Hardware Used
 You can purchase the hardware I used from these websites.

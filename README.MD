@@ -1,4 +1,4 @@
-# Raspberry Pi Relay NODE.JS
+# :electric_plug: Raspberry Pi Relay NODE.JS
 > Supported for Raspberry Pi II this simple Node.js webserver allows for GUI relay control. As well as URL encoding for the relays.
 > for EX: 192.168.1.65/relay1/on
 > Username and Password support coming soon!
